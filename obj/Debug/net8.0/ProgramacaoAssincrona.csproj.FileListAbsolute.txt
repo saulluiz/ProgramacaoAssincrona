@@ -1,0 +1,14 @@
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\ProgramacaoAssincrona\bin\Debug\net8.0\ProgramacaoAssincrona.exe
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\ProgramacaoAssincrona\bin\Debug\net8.0\ProgramacaoAssincrona.deps.json
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\ProgramacaoAssincrona\bin\Debug\net8.0\ProgramacaoAssincrona.runtimeconfig.json
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\ProgramacaoAssincrona\bin\Debug\net8.0\ProgramacaoAssincrona.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\ProgramacaoAssincrona\bin\Debug\net8.0\ProgramacaoAssincrona.pdb
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\ProgramacaoAssincrona\obj\Debug\net8.0\ProgramacaoAssincrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\ProgramacaoAssincrona\obj\Debug\net8.0\ProgramacaoAssincrona.AssemblyInfoInputs.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\ProgramacaoAssincrona\obj\Debug\net8.0\ProgramacaoAssincrona.AssemblyInfo.cs
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\ProgramacaoAssincrona\obj\Debug\net8.0\ProgramacaoAssincrona.csproj.CoreCompileInputs.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\ProgramacaoAssincrona\obj\Debug\net8.0\ProgramacaoAssincrona.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\ProgramacaoAssincrona\obj\Debug\net8.0\refint\ProgramacaoAssincrona.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\ProgramacaoAssincrona\obj\Debug\net8.0\ProgramacaoAssincrona.pdb
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\ProgramacaoAssincrona\obj\Debug\net8.0\ProgramacaoAssincrona.genruntimeconfig.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\ProgramacaoAssincrona\obj\Debug\net8.0\ref\ProgramacaoAssincrona.dll
